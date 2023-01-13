@@ -1,0 +1,28 @@
+.card-area {
+  width: 30%;
+  height: 400px;
+  margin: 10px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.image-area {
+  height: 250px;
+  background-color: aquamarine;
+}
+.title-area {
+  height: 30px;
+}
+.detail-area {
+  height: 30px;
+}
+.card-footer {
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.subTitle {
+  font-size: 10px;
+}

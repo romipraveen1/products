@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: aquamarine;
+}
+.fillter-area {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.select-element {
+  width: 150px;
+}
+.product-area {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
